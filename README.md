@@ -7,7 +7,7 @@ Memento is an iOS app prototype used to organize travel memories by allowing the
 
 Here are a few demos of the prototype:
 
-- Scrolling on the map and tapping on the a pin to see its details.
+- Scrolling on the map and tapping on a pin to see its details.
 
 ![](https://github.com/fabiofranzese/Memento/blob/main/demos/demo_map.gif)
 
@@ -15,6 +15,6 @@ Here are a few demos of the prototype:
 
 ![](https://github.com/fabiofranzese/Memento/blob/main/demos/demo_search.gif)
 
-- Adding a new pin by giving it a title, a date, notes and images.
+- Adding a new pin and attaching a note and images.
 
 ![](https://github.com/fabiofranzese/Memento/blob/main/demos/demo_add.gif)
