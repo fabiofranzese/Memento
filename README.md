@@ -7,7 +7,7 @@ Memento is an app used to organize travel memories by allowing the user to add p
 
 Here are a few demos of the prototype.
 
-### Map an Pin Detail
+### Map and Pin Detail
 
 ### Pin List and Search
 
